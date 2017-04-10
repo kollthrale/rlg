@@ -1,0 +1,2 @@
+class Intervision < ApplicationRecord
+end

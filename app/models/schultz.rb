@@ -1,0 +1,2 @@
+class Schultz < ApplicationRecord
+end

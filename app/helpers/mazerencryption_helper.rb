@@ -1,0 +1,2 @@
+module MazerencryptionHelper
+end

@@ -1,0 +1,2 @@
+class Mazerencryption < ApplicationRecord
+end

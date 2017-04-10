@@ -1,0 +1,2 @@
+class Geopower < ApplicationRecord
+end

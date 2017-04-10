@@ -1,0 +1,2 @@
+module GeopowerHelper
+end

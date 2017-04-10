@@ -1,0 +1,2 @@
+module PelletasiaHelper
+end

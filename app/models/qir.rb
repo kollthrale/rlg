@@ -1,0 +1,2 @@
+class Qir < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class Pelletasium < ApplicationRecord
+end
