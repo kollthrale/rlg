@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
+gem "twitter-bootstrap-rails"
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'gmaps4rails', '~> 2.1', '>= 2.1.2'
 gem 'paperclip', '~> 5.1.0'
