@@ -2,6 +2,8 @@ Rails.application.routes.draw do
 
 root 'home#index'
 get 'index/home', to: 'home#index'
+get 'approach/home', to: 'home#approach'
+get 'contact/home', to: 'home#contact' 
   # get 'intellibed/index'
   #
   # get 'intellibed/show'
